@@ -1,0 +1,478 @@
+/*==========  Desktop First  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1800px) {
+  h1 {
+    font-size: 90px; }
+  .home-content {
+    padding-left: 400px; }
+  .worth-box .box-text {
+    max-width: 800px; }
+  .chip-tuning__img {
+    max-width: 500px; }
+  .chip-advantages {
+    font-size: 24px;
+    max-width: 500px; } }
+
+@media only screen and (max-width: 1750px) {
+  .container {
+    padding: 0 65px; }
+  .offer {
+    padding: 70px 0; }
+    .offer .worth-img {
+      right: -100px; }
+  .resources .worth-img {
+    right: -200px; }
+  .we-serve .worth-img {
+    right: -200px;
+    max-width: 600px; }
+  .works .worth-img {
+    max-width: 600px; }
+  .auto-parts__img {
+    max-width: 600px; }
+  .auto-parts h3 {
+    margin: 0 0 50px; }
+  .advantages .worth-img {
+    right: -100px; } }
+
+@media only screen and (max-width: 1600px) {
+  .home-image__item {
+    max-width: 500px; }
+  .location {
+    font-size: 40px;
+    padding: 40px 50px 20px 50px; }
+  .slogan {
+    font-size: 30px;
+    white-space: normal; }
+  .home:before {
+    width: 400px; }
+  .p-160 {
+    padding: 100px 0; }
+  .box-text {
+    font-size: 22px; }
+  h3 {
+    font-size: 30px; }
+  .position-section .worth-img {
+    max-width: 450px; }
+  .offer .worth-img {
+    right: -300px; }
+  .resources .worth-img {
+    right: -400px; }
+  .we-serve .worth-img {
+    max-width: 500px; }
+  .brands-logo {
+    margin: 40px 0; }
+  .works h3 {
+    margin: 0 0 40px; }
+  .works .worth-img {
+    max-width: 500px; }
+  .gas-equipment {
+    padding: 100px 0 180px; }
+  .chip-advantages {
+    font-size: 20px;
+    max-width: 350px; }
+  .chip-tuning__img {
+    max-width: 350px; }
+  .auto-parts {
+    padding: 100px 0 60px; }
+  .advantages .worth-img {
+    right: -200px;
+    max-width: 600px; }
+  .advantages-box {
+    margin: 0 0 50px; }
+  .contacts-footer:before {
+    width: 100%; } }
+
+@media only screen and (max-width: 1470px) {
+  .worth-box .box-text {
+    max-width: 650px; }
+  .position-section-box {
+    font-size: 24px; }
+  .callback {
+    padding: 50px 0; }
+    .callback h2 {
+      font-size: 34px; }
+  .list-dots {
+    font-size: 22px; }
+  .works .worth-img {
+    right: -100px; }
+  .gas-equipment-box {
+    font-size: 22px; }
+  .auto-parts h3 {
+    padding: 0; }
+  .auto-parts__img {
+    max-width: 500px; }
+  .auto-parts-box {
+    margin: 40px 0 20px;
+    font-size: 22px; }
+  .map {
+    min-width: 900px; } }
+
+@media only screen and (max-width: 1360px) {
+  .slogan {
+    margin: 50px 0 0;
+    font-size: 30px; }
+  h1 {
+    font-size: 70px; }
+  h2 {
+    font-size: 50px; }
+  .home:before {
+    width: 300px; }
+  .home-image__item {
+    max-width: 400px; }
+  .home-logo {
+    max-width: 200px;
+    margin: 140px 50px 0; }
+  .worth-box .box-text, .worth-box h3 {
+    max-width: 600px; }
+  .worth .worth-img {
+    max-width: 450px; }
+  .position-section-box {
+    font-size: 20px; }
+    .position-section-box__body {
+      font-size: 20px; }
+  .offer .worth-img {
+    max-width: 600px; }
+  .chip-tuning-box {
+    font-size: 20px;
+    margin: 0 0 40px; }
+  .chip-advantages {
+    max-width: none;
+    padding: 30px;
+    width: calc(100% - 60px);
+    position: relative;
+    border-radius: 30px;
+    bottom: 0;
+    margin: 0 0 0 auto; }
+  .list-check li {
+    padding: 0 0 0 40px; }
+    .list-check li:before {
+      top: 0;
+      width: 30px;
+      height: 25px; }
+  .partners-wrapper {
+    margin: 0; }
+  .name-company {
+    font-size: 30px;
+    margin: 30px 0; }
+  .contacts-footer {
+    padding: 100px 0 60px; } }
+
+@media only screen and (max-width: 1200px) {
+  .menu, .contacts-box {
+    font-size: 20px; }
+  .worth .worth-img {
+    max-width: 300px; }
+  .worth-box__icon {
+    max-width: 120px; }
+  .worth-box__body {
+    width: calc(100% - 120px); }
+  .box-text {
+    font-size: 18px; }
+  .worth-box h3 {
+    margin: 0 0 10px; }
+  h3 {
+    font-size: 24px; }
+  .form-callback {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between; }
+    .form-callback label {
+      margin: 0 0 15px;
+      width: calc(50% - 10px);
+      max-width: none; }
+    .form-callback button {
+      margin: 20px auto 0; }
+  .offer .worth-img {
+    max-width: 500px; }
+  .wrapper-content {
+    padding: 0; }
+  .offer-box h4 {
+    font-size: 22px; }
+  .resources-box {
+    font-size: 20px; }
+    .resources-box h3 {
+      font-size: 22px; }
+    .resources-box__num {
+      font-size: 50px; }
+      .resources-box__num sup {
+        font-size: 30px; }
+  .list-characteristics {
+    font-size: 20px; }
+  .resources .worth-img {
+    max-width: 500px;
+    right: -300px; }
+  .brands-logo {
+    max-width: 800px; }
+  .works .worth-img {
+    max-width: 400px; }
+  .works-box {
+    font-size: 22px;
+    margin: 30px 0 0; }
+    .works-box p {
+      max-width: 600px; }
+  .gas-equipment-box {
+    text-align: center;
+    font-size: 18px; }
+    .gas-equipment-box__icon {
+      margin: 0 0 20px; }
+    .gas-equipment-box h4 {
+      font-size: 22px; }
+  .gas-equipment-box-row {
+    text-align: left; }
+  .gas-equipment-box__icon {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0 auto 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .chip-tuning__img {
+    max-width: 300px; }
+  .auto-parts__img {
+    max-width: 400px; }
+  .partners-box {
+    margin: 30px 0 0;
+    padding: 10px; } }
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  .menu {
+    font-size: 18px; }
+    .menu li {
+      margin: 0 20px 0 0; }
+  .location {
+    font-size: 28px; }
+  h1 {
+    font-size: 50px; }
+  h2 {
+    font-size: 40px;
+    margin: 0 auto 40px; }
+  .home {
+    padding: 205px 0 150px; }
+  .worth-img, .chip-tuning__img, .auto-parts__img {
+    display: none; }
+  .worth-box {
+    margin: 0 0 40px; }
+  .wrapper:before {
+    display: none; }
+  .container {
+    padding: 0 15px; }
+  .p-160 {
+    padding: 60px 0; }
+  .position-section-box {
+    width: 50%; }
+  .btn, input {
+    font-size: 20px; }
+  .chip-advantages {
+    width: 100%; }
+  .advantages {
+    padding: 60px 0; }
+  .partners-box {
+    width: 50%; }
+  .contacts-footer:before {
+    display: none; }
+  .contacts-footer {
+    padding: 20px 0; }
+  footer .contacts-box {
+    font-size: 22px; }
+  .map {
+    min-width: auto;
+    width: calc(100% + 30px);
+    height: 400px; }
+  footer {
+    padding: 100px 0 0; } }
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 900px) {
+  header .menu {
+    display: none; }
+  header .contacts-box {
+    margin: 0 auto;
+    text-align: center; }
+  .btn-burger {
+    display: block; }
+  .home-image, .home:before, .wrapper:before {
+    display: none; }
+  .home-content {
+    padding-left: 0;
+    text-align: center; }
+  .home {
+    padding: 200px 0 60px; }
+  .location {
+    background: #009345;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .location:before {
+      display: none; } }
+
+@media only screen and (max-width: 768px) {
+  .position-section-box {
+    font-size: 18px; }
+    .position-section-box__body {
+      font-size: 18px; }
+  h2 {
+    font-size: 30px; }
+  .resources-box__num {
+    font-size: 40px; }
+    .resources-box__num sup {
+      font-size: 20px; }
+  .we-serve-list li {
+    width: 100%; }
+  .list-dots {
+    font-size: 18px; }
+  .brands-logo-icon {
+    width: 25%;
+    padding: 5px; } }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 576px) {
+  .worth-box {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start; }
+    .worth-box__body {
+      padding: 20px 0 0;
+      width: 100%; }
+  .position-section-box {
+    width: 100%;
+    height: auto;
+    min-height: 160px; }
+  .form-callback label {
+    width: 100%; }
+  .callback h2 {
+    font-size: 26px; }
+  .btn, input {
+    font-size: 18px; }
+  .btn {
+    padding: 20px; }
+  .list-characteristics li {
+    width: 100%; }
+  .brands-logo-icon {
+    width: 33.3%;
+    margin: 0 0 20px; }
+  .we-serve {
+    padding: 0; }
+  .works h3 {
+    margin: 0 0 30px; }
+  .gas-equipment-box-row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start; }
+    .gas-equipment-box-row .gas-equipment-box__body {
+      padding: 20px 0 0;
+      width: 100%; }
+  .gas-equipment {
+    padding: 60px 0 150px; }
+  .gas-equipment__img {
+    max-width: 300px; }
+  .auto-parts-box {
+    text-align: center; }
+    .auto-parts-box__icon {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      margin: 0 auto 20px; }
+  .auto-parts h3 {
+    margin: 0 0 30px; }
+  .advantages-box {
+    text-align: center;
+    margin: 0 0 30px; }
+    .advantages-box__number {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+  .name-company {
+    font-size: 24px; } }
+
+@media only screen and (max-width: 480px) {
+  header .contacts-box {
+    display: none; }
+  header .logo {
+    margin: 0 auto 0 0; }
+  .location {
+    font-size: 18px; }
+  .slogan {
+    font-size: 24px;
+    margin: 40px auto 0; }
+  h1 {
+    font-size: 34px;
+    letter-spacing: 0; }
+  h2 {
+    font-size: 24px;
+    margin: 0 auto 30px; }
+  h3 {
+    font-size: 20px; }
+  .home {
+    padding: 140px 0 50px; }
+  .brands-logo-icon {
+    width: 50%; }
+  .works-box__icon {
+    max-width: 70px; }
+  .works-box__body {
+    width: calc(100% - 70px);
+    padding: 0 0 0 20px; }
+  .chip-tuning-box {
+    font-size: 18px; }
+    .chip-tuning-box__icon {
+      max-width: 80px; }
+    .chip-tuning-box__body {
+      width: calc(100% - 80px);
+      padding: 0 0 0 20px; } }
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 420px) {
+  .works-box {
+    font-size: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start; }
+    .works-box__body {
+      padding: 20px 0 0; }
+  .partners-box {
+    width: 100%;
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  footer h2 {
+    font-size: 20px; }
+  footer .contacts-box {
+    font-size: 18px; } }

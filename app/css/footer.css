@@ -1,0 +1,62 @@
+/*==========  footer  ==========*/
+footer {
+  padding: 160px 0 0;
+  position: relative;
+  overflow: hidden; }
+  footer .contacts-box {
+    text-align: left;
+    margin: 20px 0 0;
+    font-size: 28px; }
+    footer .contacts-box a {
+      color: #000; }
+  footer h2 {
+    margin: 0; }
+
+.name-company {
+  margin: 50px 0 40px;
+  font-size: 50px;
+  text-transform: uppercase; }
+
+.contacts-footer {
+  padding: 160px 0 210px;
+  position: relative;
+  z-index: 1; }
+  .contacts-footer:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: -10px;
+    width: 820px;
+    height: 602px;
+    background: url("../img/logo-max.jpg") no-repeat right bottom;
+      background-size: 100%;
+    z-index: -1; }
+
+.map {
+  position: relative;
+  z-index: 1;
+  min-width: 1200px;
+  height: 100%;
+  border-radius: 100px 0 0;
+  overflow: hidden; }
+
+.map-wrapper {
+  position: relative;
+  height: 100%; }
+  .map-wrapper:before {
+    content: '';
+    position: absolute;
+    height: calc(100% - 100px);
+    width: 100%;
+    left: -20px;
+    background: #009345;
+    bottom: 0;
+    border-radius: 100px 0 0; }
+
+.ymaps-layers-pane {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); }
+
+/*==========  footer end  ==========*/
+/*==========  section  ==========*/
+/*==========  section end  ==========*/
